@@ -5,9 +5,9 @@ My first repository
 
 1. *Cute pokemon* :joy:
 2. **Cool pokemon** :joy:
-3. ==Amazing story== :joy:
-4. Amazing gameplay :joy:
-5. Heartwarming story :joy:
+3. **Amazing story** :joy:
+4. *Amazing gameplay* :joy:
+5. *Heartwarming story* :joy:
 6. ~~Sexy pokemon~~ :joy:
 
 ### links   
